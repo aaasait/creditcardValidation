@@ -2,7 +2,7 @@
 
 - This Node.js module checks the verification and authenticity of the credit card number. (English)
 - Bu Node.js Modülü  Kredi Kartı Numarasının doğruluğunu ve geçerliliğini kontrol etmektedir. (Turkish) 
-- nmp link address =>  https://www.npmjs.com/package/creditcardverify
+- npm link address =>  https://www.npmjs.com/package/creditcardverify
 
 # How to use ?  
 
